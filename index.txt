@@ -1,9 +1,3 @@
-Adex 
-
-This is a business agency html template made by codewithsadee
-
-
-
 #---------- HEADER ----------#
 
 alt = Adex home
@@ -181,7 +175,7 @@ Try it For Free
 #---------- FOOTER ----------#
 
 alt = Adex home
-&copy; 2022 codewithsadee. All rights reserved.
+&copy; 2024 Navika Agarwal. All rights reserved.
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
