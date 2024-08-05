@@ -1,5 +1,4 @@
-# 3-D Market place
-A front-end of the 3-D market place
+# 3D Marketplace
+A front-end of the 3D market place.
 
-Check the site by clicking <a href="https://arushisharma1610.github.io/Assignement/">Visit<a>
- 
+Check the site by clicking <a href="https://3-d-marketplace.vercel.app/">Visit<a>
